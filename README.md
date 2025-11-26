@@ -1,5 +1,5 @@
-DrawMinders
-DrawMinders﻿ is a mobile application for iPadOS that enhances task management by merging traditional to-do list features with the naturalness of handwritten notes. It allows users to create, edit, and manage reminders using Apple Pencil or finger handwriting. The app seamlessly integrates handwriting recognition and synchronizes with the Apple ecosystem, including the system calendar.
+Reminders app
+Reminders app﻿ is a mobile application for iPadOS that enhances task management by merging traditional to-do list features with the naturalness of handwritten notes. It allows users to create, edit, and manage reminders using Apple Pencil or finger handwriting. The app seamlessly integrates handwriting recognition and synchronizes with the Apple ecosystem, including the system calendar.
 
 Features
 Create and edit reminders with handwritten notes and drawings.
