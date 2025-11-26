@@ -1,9 +1,39 @@
-# Test
-123
+DrawMinders
+DrawMinders﻿ is a mobile application for iPadOS that enhances task management by merging traditional to-do list features with the naturalness of handwritten notes. It allows users to create, edit, and manage reminders using Apple Pencil or finger handwriting. The app seamlessly integrates handwriting recognition and synchronizes with the Apple ecosystem, including the system calendar.
 
+Features
+Create and edit reminders with handwritten notes and drawings.
 
-![Nagranie z ekranu 2025-11-26 o 14 15 11](https://github.com/user-attachments/assets/058b5027-6d4e-4ec9-97b5-d6d4cd4bf8da)
+Handwriting recognition to convert handwritten notes into digital text.
 
-![Nagranie z ekranu 2025-11-26 o 14 16 58](https://github.com/user-attachments/assets/312b8614-dd74-4b9b-a35e-564b345cdc05)
+Synchronization with the system calendar via EventKit.
 
-ss
+Organize tasks using customizable lists and smart lists with advanced filters.
+
+Drag & drop support for moving reminders between lists.
+
+Intuitive UI based on SwiftUI’s NavigationSplitView adhering to Apple’s Human Interface Guidelines.
+
+Technologies
+Platform: iPadOS (requires iPadOS 16+ with Apple Pencil support)
+
+Programming Language: Swift with SwiftUI
+
+Data Storage: SwiftData and iCloud
+
+Input: PencilKit for handwriting & drawing
+
+Text recognition: Vision framework
+
+Calendar management: EventKit
+
+Development: Xcode
+
+Usage
+Use Apple Pencil or finger to write and draw reminders directly.
+
+Save handwritten notes to create interactive reminders with editable details.
+
+Organize reminders into lists and apply filters for quick access.
+
+Sync reminders across devices through iCloud.
